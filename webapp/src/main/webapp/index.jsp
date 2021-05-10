@@ -1,23 +1,15 @@
-<!DOCTYPE html> 
-<html> 
-<body> 
+<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
+<h2> Deploying a video play back example </h2>
+<h2> ------>Glad to see you here<------ </h2>
 
-<video width="400" controls>
-  <source src="mov_bbb.mp4" type="video/mp4">
-  <source src="mov_bbb.ogg" type="video/ogg">
-  Your browser does not support HTML video.
-</video>
+<!DOCTYPE html>
+<html>
+<body>
 
-<p>
-Video courtesy of 
-<a href="https://www.bigbuckbunny.org/" target="_blank">Big Buck Bunny</a>.
-</p>
-
-<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+<iframe width="650eight="450rc="https://www.youtube.com/embed/tgbNymZ7vqY">
 </iframe>
-</body> 
+
+</body>
 </html>
 
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible </h2>
-<h2> Glad to see you here </h2>
+
