@@ -1,11 +1,13 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying a video play back##1 example##1 </h2>
+<h2> Deploying a video play back1 example1 </h2>
 <h2>-- ------>Glad to see you here<-------- </h2>
 
 <!DOCTYPE html>
 <html>
 <body style="background-color:powderblue;">
 <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+<iframe width="420" height="345" src="https://www.youtube.com/watch?v=bON-KPiiNCk">
+<iframe width="420" height="345" src="https://www.youtube.com/watch?v=0LHmevWVvpc">
 </iframe>
   <audio controls>
   <source src="horse.ogg" type="audio/ogg">
