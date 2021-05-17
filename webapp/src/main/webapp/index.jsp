@@ -8,7 +8,7 @@
 <body style="background-color:powderblue;">
 <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
 </iframe>
-  <iframe width="420" height="345" src="https://www.youtube.com/watch?v=0LHmevWVvpc&list=RD0LHmevWVvpc&start_radio=1&rv=0LHmevWVvpc&t=3">
+  <iframe width="420" height="345" src="https://www.youtube.com/watch?v=CxwJrzEdw1U">
 </iframe>
 <p>Click the button to get your coordinates.</p>
 
