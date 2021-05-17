@@ -5,8 +5,6 @@
 <!DOCTYPE html>
 <html>
 <body style="background-color:powderblue;">
-<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
-<iframe width="420" height="345" src="https://www.youtube.com/watch?v=bON-KPiiNCk">
 <iframe width="420" height="345" src="https://www.youtube.com/watch?v=0LHmevWVvpc">
 </iframe>
   <audio controls>
