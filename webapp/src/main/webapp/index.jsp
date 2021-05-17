@@ -8,7 +8,8 @@
 <body style="background-color:powderblue;">
 <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
 </iframe>
-<p>Click the button to get your coordinates.</p>
+<h1>Getting server updates</h1>
+<div id="result"></div>
 <h1>Getting server updates</h1>
 <div id="result"></div>
 
