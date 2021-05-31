@@ -2,12 +2,12 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 <h2> Deploying a video play back1 example1 </h2>
 <h2>-- ------>Glad to see you here<-------- </h2>
-<h2>-- ------>Glad to explain the CICD Pipeline<-------- </h2>
+
 
 <!DOCTYPE html>
 <html>
 <body style="background-color:powderblue;">
-<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+<iframe width="420" height="345" src="https://www.youtube.com/watch?v=SLD9xzJ4oeU">
 </iframe>
 <h1>Getting server updates</h1>
 <div id="result"></div>
